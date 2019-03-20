@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Parse Notes App</string>
+    <string name="type_username">Type your username</string>
+    <string name="type_password">Type your password</string>
+    <string name="login">Login</string>
+    <string name="type_email">Type your email</string>
+    <string name="register">Register</string>
+    <string name="empty_username">Can\'t be empty</string>
+    <string name="short_username">At least 8 characters</string>
+    <string name="used_username">Already used</string>
+    <string name="empty_password">Can\'t be empty</string>
+    <string name="short_password">At least 8 characters with 1 upper, 1 lower and 1 number</string>
+    <string name="empty_email">Can\'t be empty</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="register_success">Registration success</string>
+    <string name="register_failure">Register failure</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failure">Login failure</string>
+    <string name="get_notes_err">Error getting notes</string>
+    <string name="urgent">Urgent</string>
+    <string name="note_description">Note description</string>
+    <string name="note_title">Note title</string>
+    <string name="add_note">Add note</string>
+    <string name="save_menu">Save</string>
+    <string name="update_note_err">Update note error</string>
+    <string name="title_empty_error">Note title can\'t be empty</string>
+    <string name="desc_empty_error">Description can\'t be empty</string>
+    <string name="save_note_error">Save note error</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_created">Note created</string>
+    <string name="note_updated">Note updated</string>
+    <string name="delete_note_err">Delete note error</string>
+    <string name="logout">Logout</string>
+
+</resources>
